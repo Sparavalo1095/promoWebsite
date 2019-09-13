@@ -1,0 +1,23 @@
+/* Everything in here is a comment CODE */
+
+body
+{
+        /*background-color: aqua;
+        background-image: url("George_pig_transparent.png")
+        background-repeat: no-repeat;
+        background-size: cover;
+
+         */
+}
+
+
+
+H4{
+    color: lightseagreen
+}
+/* Style a specific section that of the page that has an ID= using the hashtag # */
+#textEnhance
+{
+    color: mediumvioltred;
+    background-image: linear-gradient(whitesmoke,bisque)
+}
